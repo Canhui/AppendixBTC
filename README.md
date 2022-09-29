@@ -1,4 +1,4 @@
-### Online Appendix for
+### 1. Online Appendix for
 
 ## [*Dissecting Mining Pools of Bitcoin Network: Measurement, Analysis and Modeling*](https://doi.org/10.10XXXXXXXX)
 
@@ -8,7 +8,7 @@ Published in [*XXXs*](https://www.cambriXXX), May 202X.
 
 &nbsp; 
 
-### Contents of the Appendix
+### 2. Contents of the Appendix
 
 ## [Appendix](https://github.com/Canhui/AppendixBTC/blob/main/Appendix.pdf)
 "Appendix.pdf" is the appendix.
