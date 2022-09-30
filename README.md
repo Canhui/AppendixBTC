@@ -32,5 +32,7 @@ Published in [*XXXs*](https://www.cambriXXX), May 202X.
 
 ### Useful Links
 [1] Mining Pool Data: https://www.theblock.co/data/on-chain-metrics/bitcoin/bitcoins-daily-real-time-hashrate-by-pool
+
 [2] Bitcoin Network Data: https://www.theblock.co/data/on-chain-metrics/bitcoin
+
 [3] Mining Pool Label Collection Method: https://explorer.btc.com/btc/adapter?type=api-doc
