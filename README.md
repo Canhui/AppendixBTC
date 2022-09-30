@@ -31,10 +31,14 @@ Published in [*XXXs*](https://www.cambriXXX), May 202X.
 &nbsp; 
 
 ### 3. Super Useful Links
-[1] Mining Pool Data: https://www.theblock.co/data/on-chain-metrics/bitcoin/bitcoins-daily-real-time-hashrate-by-pool
+[1] Public Datasets about Mining Pools: https://www.theblock.co/data/on-chain-metrics/bitcoin/bitcoins-daily-real-time-hashrate-by-pool
 
-[2] Bitcoin Network Data: https://www.theblock.co/data/on-chain-metrics/bitcoin
+[2] Public Datasets about Bitcoin Network: https://www.theblock.co/data/on-chain-metrics/bitcoin
 
-[3] Mining Pool Label Collection Method: https://explorer.btc.com/btc/adapter?type=api-doc
+[3] Method of Mining Pool Label Collection: https://explorer.btc.com/btc/adapter?type=api-doc
 
-[4] Nash Pure Strategy: https://en.wikipedia.org/wiki/Nash_equilibrium
+[4] Method of Running a Bitcoin Full Node: https://bitcoin.org/en/full-node
+
+[5] Method of Handling Transactions and Blocks: https://developer.bitcoin.org/reference/rpc/
+
+[6] Theory of Nash Pure Strategy: https://en.wikipedia.org/wiki/Nash_equilibrium
