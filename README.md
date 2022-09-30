@@ -36,3 +36,5 @@ Published in [*XXXs*](https://www.cambriXXX), May 202X.
 [2] Bitcoin Network Data: https://www.theblock.co/data/on-chain-metrics/bitcoin
 
 [3] Mining Pool Label Collection Method: https://explorer.btc.com/btc/adapter?type=api-doc
+
+[4] Nash Pure Strategy: https://en.wikipedia.org/wiki/Nash_equilibrium
