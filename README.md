@@ -11,7 +11,7 @@ Published in [*XXXs*](https://www.cambriXXX), May 202X.
 ### Contents of the Appendix
 
 ## [Appendix](https://github.com/Canhui/AppendixBTC/blob/main/Appendix.pdf)
-"Appendix.pdf" is the appendix.
+"Appendix.pdf" is the appendix, including appendix A (i.e., description of the mining strategy), appendix B (i.e., estimate daily computing power), appendix C (i.e., proofs), appendix D (i.e., case study), appendix E (i.e., transaction size after versus before SegWit), appendix F (i.e., measuring dynamic of daily BTC price), and appendix G (i.e., the low-profitable ratio of daily mining revenue to daily computing power). 
 
 ## [Sample Code](https://github.com/Canhui/AppendixBTC/blob/main/codeTB1.m)
 "codeTB1.m" is the Matlab source code for Table III in the appendix.
