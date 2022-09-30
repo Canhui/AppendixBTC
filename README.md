@@ -1,4 +1,4 @@
-### 1. Online Appendix for
+### 1. Online Appendix for the Paper named
 
 ## [*Dissecting Mining Pools of Bitcoin Network: Measurement, Analysis and Modeling*](https://doi.org/10.10XXXXXXXX)
 
