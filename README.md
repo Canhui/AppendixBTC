@@ -30,7 +30,7 @@ Published in [*XXXs*](https://www.cambriXXX), May 202X.
 
 &nbsp; 
 
-### 3. Super Useful Links
+### 3. Useful Links
 [1] Public Datasets about Mining Pools: https://www.theblock.co/data/on-chain-metrics/bitcoin/bitcoins-daily-real-time-hashrate-by-pool
 
 [2] Public Datasets about Bitcoin Network: https://www.theblock.co/data/on-chain-metrics/bitcoin
