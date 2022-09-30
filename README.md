@@ -27,3 +27,6 @@ Published in [*XXXs*](https://www.cambriXXX), May 202X.
 
 ## [Example Four](https://github.com/Canhui/AppendixBTC/blob/main/eg2_2.m)
 "eg2_2.m" is the Matlab source code about optimal pure strategies for Table IX in the main manuscript.
+
+### Useful Links
+[Example Four](https://github.com/Canhui/AppendixBTC/blob/main/eg2_2.m)
