@@ -31,4 +31,4 @@ Published in [*XXXs*](https://www.cambriXXX), May 202X.
 &nbsp; 
 
 ### Useful Links
-[Example Four](https://github.com/Canhui/AppendixBTC/blob/main/eg2_2.m)
+Example Four: https://github.com/Canhui/AppendixBTC/blob/main/eg2_2.m
