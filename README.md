@@ -4,7 +4,7 @@
 
 by Canhui Wang, Xiaowen Chu, and Yang Qin
 
-Published in [*XXXs*](https://www.cambriXXX), May 202X.
+DOI: 10.1109/TNSE.2022.3210537, Published in [*XXXs*](https://www.cambriXXX), May 202X.
 
 &nbsp; 
 
