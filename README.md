@@ -30,7 +30,7 @@ DOI: 10.1109/TNSE.2022.3210537, Published in [*XXXs*](https://www.cambriXXX), Ma
 
 &nbsp; 
 
-### 3. Useful Links
+### 3. Useful Information and Resources
 [1] Public Datasets about Mining Pools: https://www.theblock.co/data/on-chain-metrics/bitcoin/bitcoins-daily-real-time-hashrate-by-pool
 
 [2] Public Datasets about Bitcoin Network: https://www.theblock.co/data/on-chain-metrics/bitcoin
@@ -42,3 +42,4 @@ DOI: 10.1109/TNSE.2022.3210537, Published in [*XXXs*](https://www.cambriXXX), Ma
 [5] Method of Handling Transactions and Blocks: https://developer.bitcoin.org/reference/rpc/
 
 [6] Theory of Nash Pure Strategy: https://en.wikipedia.org/wiki/Nash_equilibrium
+
