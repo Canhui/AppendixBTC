@@ -2,7 +2,7 @@
 
 ## [*Dissecting Mining Pools of Bitcoin Network: Measurement, Analysis and Modeling*](https://doi.org/10.1109/TNSE.2022.3210537)
 
-by Canhui Wang, Xiaowen Chu, and Yang Qin
+by [Canhui Wang](https://orcid.org/0000-0001-7869-9083), [Xiaowen Chu](https://orcid.org/0000-0001-9745-4372), Yang Qin
 
 Published in [*IEEE Transactions on Network Science and Engineering*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902), Oct 2022.
 
