@@ -45,5 +45,5 @@ Published in [*IEEE Transactions on Network Science and Engineering*](https://ie
 
 &nbsp; 
 
-### 4. Dive Blue Ocean and No Go Up Fast
+### 4. Dive Blue Ocean and Go Up No Fast
 [1] Mixed Nash Equilibrium with $N$ Players: http://www.econ.uiuc.edu/~hrtdmrt2/Teaching/GT_2016_19/L4.pdf
