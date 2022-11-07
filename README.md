@@ -28,6 +28,9 @@ Published in [*IEEE Transactions on Network Science and Engineering*](https://ie
 ## [Example Four](https://github.com/Canhui/AppendixBTC/blob/main/eg2_2.m)
 "eg2_2.m" is the Matlab source code about optimal pure strategies for Table IX in the main manuscript.
 
+## [More About the Mining Strategy](https://github.com/Canhui/AppendixBTC/blob/main/More_About_the_Mining_Strategy.pdf)
+"More_About_the_Mining_Strategy.pdf" is more information about the analytical mining strategy.
+
 &nbsp; 
 
 ### 3. Useful Information and Resources
