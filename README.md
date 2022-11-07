@@ -46,4 +46,4 @@ Published in [*IEEE Transactions on Network Science and Engineering*](https://ie
 &nbsp; 
 
 ### 4. Open Questions
-[1] Mixed Nash Equilibrium with $N$ Players: https://felixmunozgarcia.files.wordpress.com/2017/08/slides_71.pdf
+[1] Mixed Nash Equilibrium with $N$ Players: http://www.econ.uiuc.edu/~hrtdmrt2/Teaching/GT_2016_19/L4.pdf
