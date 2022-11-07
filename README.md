@@ -45,5 +45,5 @@ Published in [*IEEE Transactions on Network Science and Engineering*](https://ie
 
 &nbsp; 
 
-### 4. Open Questions
+### 4. Blue Ocean Diving
 [1] Mixed Nash Equilibrium with $N$ Players: http://www.econ.uiuc.edu/~hrtdmrt2/Teaching/GT_2016_19/L4.pdf
