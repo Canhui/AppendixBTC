@@ -43,3 +43,7 @@ Published in [*IEEE Transactions on Network Science and Engineering*](https://ie
 
 [6] Theory of Nash Pure Strategy: https://en.wikipedia.org/wiki/Nash_equilibrium
 
+&nbsp; 
+
+### 4. Open Questions
+[1] Mixed Nash Equilibrium with $N$ Players: https://felixmunozgarcia.files.wordpress.com/2017/08/slides_71.pdf
