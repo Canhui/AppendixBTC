@@ -1,10 +1,10 @@
 ### 1. Online Appendix for the Paper
 
-## [*Dissecting Mining Pools of Bitcoin Network: Measurement, Analysis and Modeling*](https://doi.org/10.1109/TNSE.2022.3210537)
+## [*Dissecting Mining Pools of Bitcoin Network: Measurement, Analysis and Modeling*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9907879)
 
 by Canhui Wang, Xiaowen Chu, Yang Qin  
 
-Published in [*IEEE Transactions on Network Science and Engineering*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902), Oct 2022.
+Published in [*IEEE Transactions on Network Science and Engineering*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9907879), Oct 2022.
 
 &nbsp; 
 
